@@ -1,0 +1,33 @@
+{
+    "joining": "Joining",
+    "loading": "Loading",
+
+    "town": "Town",
+    "coffee": "Coffee Shop",
+    "book": "Book Room",
+    "dance": "Dance Club",
+    "lounge": "Dance Lounge",
+    "shop": "Gift Shop",
+    "village": "Ski Village",
+    "lodge": "Ski Lodge",
+    "attic": "Lodge Attic",
+    "mtn": "Mountain",
+    "plaza": "Plaza",
+    "pet": "Pet Shop",
+    "dojoext": "Dojo Courtyard",
+    "beach": "Beach",
+    "dock": "Dock",
+    "forts": "Snow Forts",
+    "rink": "Stadium",
+    "berg": "Iceberg",
+    "cave": "Cave",
+    "shack": "Mine Shack",
+    "forest": "Forest",
+    "cove": "Cove",
+    "sled": "Sled Race",
+    "igloo": "Igloo",
+
+    "clothingcatalog": "Clothing Catalog",
+    "furniturecatalog": "Furniture Catalog",
+    "igloocatalog": "Igloo Catalog"
+}

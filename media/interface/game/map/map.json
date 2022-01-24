@@ -1,0 +1,820 @@
+{
+	"textures": [
+		{
+			"image": "map.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1967,
+				"h": 948
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1040,
+						"h": 673
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1040,
+						"h": 673
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1040,
+						"h": 673
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5007429420505201
+					}
+				},
+				{
+					"filename": "island",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 923,
+						"h": 464
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 923,
+						"h": 464
+					},
+					"frame": {
+						"x": 1043,
+						"y": 1,
+						"w": 923,
+						"h": 464
+					},
+					"anchor": {
+						"x": 0.5005417118093174,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "note",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 283,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 283,
+						"h": 226
+					},
+					"frame": {
+						"x": 1,
+						"y": 676,
+						"w": 283,
+						"h": 226
+					},
+					"anchor": {
+						"x": 0.5017667844522968,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "beach-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 162
+					},
+					"frame": {
+						"x": 286,
+						"y": 676,
+						"w": 148,
+						"h": 162
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "rink",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 217,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 208,
+						"h": 107
+					},
+					"frame": {
+						"x": 286,
+						"y": 840,
+						"w": 208,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.5023041474654378,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "mtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 290,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 290,
+						"h": 154
+					},
+					"frame": {
+						"x": 436,
+						"y": 676,
+						"w": 290,
+						"h": 154
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "village",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 165,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 155,
+						"h": 113
+					},
+					"frame": {
+						"x": 496,
+						"y": 832,
+						"w": 155,
+						"h": 113
+					},
+					"anchor": {
+						"x": 0.503030303030303,
+						"y": 0.5041322314049587
+					}
+				},
+				{
+					"filename": "rink-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 217,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 217,
+						"h": 112
+					},
+					"frame": {
+						"x": 653,
+						"y": 832,
+						"w": 217,
+						"h": 112
+					},
+					"anchor": {
+						"x": 0.5023041474654378,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "beach",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 148,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 139,
+						"h": 152
+					},
+					"frame": {
+						"x": 728,
+						"y": 676,
+						"w": 139,
+						"h": 152
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "mtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 6,
+						"w": 274,
+						"h": 143
+					},
+					"frame": {
+						"x": 869,
+						"y": 676,
+						"w": 274,
+						"h": 143
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "dock",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 216,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 4,
+						"w": 203,
+						"h": 126
+					},
+					"frame": {
+						"x": 872,
+						"y": 821,
+						"w": 203,
+						"h": 126
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5037037037037037
+					}
+				},
+				{
+					"filename": "town-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 274,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 274,
+						"h": 123
+					},
+					"frame": {
+						"x": 1077,
+						"y": 821,
+						"w": 274,
+						"h": 123
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "dock-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 216,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 216,
+						"h": 135
+					},
+					"frame": {
+						"x": 1043,
+						"y": 467,
+						"w": 216,
+						"h": 135
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5037037037037037
+					}
+				},
+				{
+					"filename": "igloo-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 9,
+						"w": 67,
+						"h": 63
+					},
+					"frame": {
+						"x": 1043,
+						"y": 604,
+						"w": 67,
+						"h": 63
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "igloo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 11,
+						"w": 63,
+						"h": 59
+					},
+					"frame": {
+						"x": 1112,
+						"y": 604,
+						"w": 63,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "plaza-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 240,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 240,
+						"h": 131
+					},
+					"frame": {
+						"x": 1145,
+						"y": 665,
+						"w": 240,
+						"h": 131
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5038167938931297
+					}
+				},
+				{
+					"filename": "berg-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 113,
+						"h": 51
+					},
+					"frame": {
+						"x": 1177,
+						"y": 604,
+						"w": 113,
+						"h": 51
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "plaza",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 240,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 228,
+						"h": 123
+					},
+					"frame": {
+						"x": 1261,
+						"y": 467,
+						"w": 228,
+						"h": 123
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5038167938931297
+					}
+				},
+				{
+					"filename": "berg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 113,
+						"h": 51
+					},
+					"frame": {
+						"x": 1292,
+						"y": 592,
+						"w": 113,
+						"h": 51
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "mountains",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 434,
+						"h": 122
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 434,
+						"h": 122
+					},
+					"frame": {
+						"x": 1353,
+						"y": 798,
+						"w": 434,
+						"h": 122
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "forest",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 174,
+						"h": 80
+					},
+					"frame": {
+						"x": 1789,
+						"y": 467,
+						"w": 174,
+						"h": 80
+					},
+					"anchor": {
+						"x": 0.5027027027027027,
+						"y": 0.5057471264367817
+					}
+				},
+				{
+					"filename": "village-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 121
+					},
+					"frame": {
+						"x": 1789,
+						"y": 549,
+						"w": 165,
+						"h": 121
+					},
+					"anchor": {
+						"x": 0.503030303030303,
+						"y": 0.5041322314049587
+					}
+				},
+				{
+					"filename": "town",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 274,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 263,
+						"h": 117
+					},
+					"frame": {
+						"x": 1387,
+						"y": 672,
+						"w": 263,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "cove",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 117,
+						"h": 75
+					},
+					"frame": {
+						"x": 1407,
+						"y": 592,
+						"w": 117,
+						"h": 75
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5058823529411764
+					}
+				},
+				{
+					"filename": "dojo-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 89
+					},
+					"frame": {
+						"x": 1652,
+						"y": 467,
+						"w": 129,
+						"h": 89
+					},
+					"anchor": {
+						"x": 0.5038759689922481,
+						"y": 0.5056179775280899
+					}
+				},
+				{
+					"filename": "dojo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 121,
+						"h": 85
+					},
+					"frame": {
+						"x": 1526,
+						"y": 467,
+						"w": 121,
+						"h": 85
+					},
+					"anchor": {
+						"x": 0.5038759689922481,
+						"y": 0.5056179775280899
+					}
+				},
+				{
+					"filename": "forts-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 109,
+						"h": 108
+					},
+					"frame": {
+						"x": 1526,
+						"y": 558,
+						"w": 109,
+						"h": 108
+					},
+					"anchor": {
+						"x": 0.5045045045045045,
+						"y": 0.5045871559633027
+					}
+				},
+				{
+					"filename": "cove-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 84
+					},
+					"frame": {
+						"x": 1652,
+						"y": 558,
+						"w": 128,
+						"h": 84
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5058823529411764
+					}
+				},
+				{
+					"filename": "mine-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 88
+					},
+					"frame": {
+						"x": 1652,
+						"y": 644,
+						"w": 119,
+						"h": 88
+					},
+					"anchor": {
+						"x": 0.5042016806722689,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "forest-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 185,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 185,
+						"h": 87
+					},
+					"frame": {
+						"x": 1773,
+						"y": 672,
+						"w": 185,
+						"h": 87
+					},
+					"anchor": {
+						"x": 0.5027027027027027,
+						"y": 0.5057471264367817
+					}
+				},
+				{
+					"filename": "mine",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 119,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 111,
+						"h": 82
+					},
+					"frame": {
+						"x": 1789,
+						"y": 761,
+						"w": 111,
+						"h": 82
+					},
+					"anchor": {
+						"x": 0.5042016806722689,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "forts",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 103,
+						"h": 102
+					},
+					"frame": {
+						"x": 1789,
+						"y": 845,
+						"w": 103,
+						"h": 102
+					},
+					"anchor": {
+						"x": 0.5045045045045045,
+						"y": 0.5045871559633027
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8f08259fcfbbb1ffc3d1902bf969a2eb:4b2d707ca80a093d4dc85fb2f362e10d:68463c66230aaeb26021edb8ea8cd9b6$"
+	}
+}
