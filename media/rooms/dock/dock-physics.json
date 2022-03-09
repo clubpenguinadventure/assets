@@ -125,5 +125,31 @@
 				]
 			}
 		]
+	},
+	"hydro": {
+		"type": "fromPhysicsEditor",
+		"label": "hydro",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":88, "y":715 }, { "x":222, "y":756 }, { "x":371, "y":667 }, { "x":372, "y":550 }, { "x":265, "y":566 }, { "x":212, "y":591 }, { "x":167, "y":622 }, { "x":121, "y":670 } ],
+					[ { "x":346, "y":549 }, { "x":321, "y":552 }, { "x":265, "y":566 }, { "x":372, "y":550 } ],
+					[ { "x":212, "y":591 }, { "x":265, "y":566 }, { "x":264, "y":566 } ]
+				]
+			}
+		]
 	}
 }

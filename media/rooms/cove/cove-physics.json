@@ -84,5 +84,30 @@
 				]
 			}
 		]
+	},
+	"waves": {
+		"type": "fromPhysicsEditor",
+		"label": "waves",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1156, "y":350 }, { "x":1156, "y":506 }, { "x":1183, "y":518 }, { "x":1216, "y":529 }, { "x":1332, "y":350 } ],
+					[ { "x":1464, "y":351 }, { "x":1332, "y":350 }, { "x":1216, "y":529 }, { "x":1279, "y":540 }, { "x":1329, "y":540 }, { "x":1367, "y":535 }, { "x":1413, "y":524 }, { "x":1463, "y":506 } ]
+				]
+			}
+		]
 	}
 }
