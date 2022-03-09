@@ -9,9 +9,9 @@
                 "key": "117"
             },
             {
-                "url": "assets/media/games/sled/sledmap.json",
+                "url": "assets/media/games/sled/sled_map.json",
                 "type": "json",
-                "key": "sledmap"
+                "key": "sled_map"
             },
             {
                 "type": "multiatlas",
