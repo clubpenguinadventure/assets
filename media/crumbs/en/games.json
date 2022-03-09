@@ -1,0 +1,48 @@
+{
+    "900": {
+        "key": "astro",
+        "flash": true
+    },
+    "901": {
+        "key": "beans",
+        "music": 101,
+        "flash": true
+    },
+    "902": {
+        "key": "roundup",
+        "music": 102,
+        "flash": true
+    },
+    "903": {
+        "key": "hydro",
+        "flash": true
+    },
+    "904": {
+        "key": "fish",
+        "music": 103,
+        "flash": true
+    },
+    "905": {
+        "key": "mine",
+        "music": 105,
+        "flash": true
+    },
+    "906": {
+        "key": "jetpack",
+        "music": 110,
+        "flash": true
+    },
+    "909": {
+        "key": "thinice",
+        "music": 111,
+        "flash": true
+    },
+    "912": {
+        "key": "waves",
+        "flash": true
+    },
+    "916": {
+        "key": "sub",
+        "flash": true
+    }
+}
