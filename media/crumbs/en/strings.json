@@ -66,6 +66,7 @@
     "four": "Find Four",
 
 
+    "map": "Map",
     "clothingcatalog": "Clothing Catalog",
     "furniturecatalog": "Furniture Catalog",
     "igloocatalog": "Igloo Catalog",
@@ -111,7 +112,9 @@
     "rescue_prompt": "Would you like to play Puffle Rescue?",
     "systemdefend_prompt": "Would you like to play System Defender?",
     "game_over": "You have earned %1 coins.\nYou now have %2 coins.",
-
+    "game_over1": "You have earned 1 coin.\nYou now have %1 coins.",
+    "quit_game_prompt": "Are you sure you want to quit this game?",
+    "player_quit_prompt": "%1 has quit the game.",
 
     "town_find": "is in the Town",
     "coffee_find": "is in the Coffee Shop",
@@ -360,5 +363,10 @@
     "stamp_book_hint": "Stamp Book",
     "edit_igloo_hint": "Edit Igloo",
     "open_igloo_hint": "Open Igloo",
-    "close_igloo_hint": "Close Igloo"
+    "close_igloo_hint": "Close Igloo",
+    "play_music_hint": "Play Music",
+    "view_items_hint": "View Items",
+    "buy_items_hint": "Buy Items",
+    "upgrade_igloo_hint": "Upgrade Igloo",
+    "save_igloo_hint": "Save Igloo"
 }

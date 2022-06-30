@@ -31,12 +31,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/interface/game/map/map.json",
-                "path": "assets/media/interface/game/map",
-                "key": "map"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/penguin/penguin.json",
                 "path": "assets/media/penguin/",
                 "key": "penguin"
