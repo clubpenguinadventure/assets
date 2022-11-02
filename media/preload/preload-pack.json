@@ -43,12 +43,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/penguin/penguin_body.json",
-                "path": "assets/media/penguin/",
-                "key": "penguin_body"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/interface/windows/prompt/prompt.json",
                 "path": "assets/media/interface/windows/prompt/",
                 "key": "prompt"
