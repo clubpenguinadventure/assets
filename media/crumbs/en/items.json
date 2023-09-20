@@ -3859,7 +3859,8 @@
         "name": "Starter Deck",
         "type": 10,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "822": {
         "name": "Mission 10 Medal",
@@ -5113,13 +5114,15 @@
         "name": "Fiery Helmet",
         "type": 2,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "1087": {
         "name": "Helmet of Oceans",
         "type": 2,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "1091": {
         "name": "Snow Fairy Hair",
@@ -9943,7 +9946,8 @@
         "name": "Lava Mask",
         "type": 3,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "2014": {
         "name": "Humbug Spectacles",
@@ -10003,7 +10007,8 @@
         "name": "Torrent Mask",
         "type": 3,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "2026": {
         "name": "Red Face Paint",
@@ -11048,7 +11053,8 @@
         "name": "Amulet",
         "type": 4,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "3033": {
         "name": "Snow Fairy Wings",
@@ -12995,13 +13001,15 @@
         "name": "Magma Coat",
         "type": 5,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "4121": {
         "name": "Waterfall Coat",
         "type": 5,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "4123": {
         "name": "Snow Fairy Dress",
@@ -20153,13 +20161,15 @@
         "name": "Flame Sandals",
         "type": 7,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "6026": {
         "name": "Wave Sandals",
         "type": 7,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "6029": {
         "name": "Ladybug Shoes",
@@ -22505,7 +22515,8 @@
         "name": "Snow Gem Pin",
         "type": 8,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "7160": {
         "name": "Calculator Pin",
@@ -23483,7 +23494,8 @@
         "name": "Fire Booster Deck",
         "type": 10,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "8007": {
         "name": "Mission 11 Medal",
@@ -23507,13 +23519,15 @@
         "name": "Water Booster Deck",
         "type": 10,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "8011": {
         "name": "Snow Starter Deck",
         "type": 10,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "9000": {
         "name": "Scarlet Leaves Background",
@@ -24581,7 +24595,8 @@
         "name": "Operation Hot Sauce",
         "type": 9,
         "cost": 0,
-        "member": 0
+        "member": 0,
+        "no_purchase_popup": 1
     },
     "9198": {
         "name": "Bamboo Grove",
@@ -29735,7 +29750,8 @@
         "type": 5,
         "cost": 0,
         "member": 0,
-        "back": 1
+        "back": 1,
+        "no_purchase_popup": 1
     },
     "24024": {
         "name": "Prehistoric Leisure Suit",
