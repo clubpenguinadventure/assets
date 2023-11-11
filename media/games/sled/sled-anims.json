@@ -55,7 +55,8 @@
             ],
             "frameRate": 24,
             "skipMissedFrames": true,
-            "repeat": -1
+            "repeat": -1,
+            "showBeforeDelay": false
         },
         {
             "key": "toboggan_crash_sled",
@@ -126,16 +127,11 @@
                     "frame": "player/toboggan/5/sled0011",
                     "duration": 0,
                     "keyframe": false
-                },
-                {
-                    "key": "sled",
-                    "frame": "player/toboggan/5/sled0012",
-                    "duration": 0,
-                    "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "toboggan_crash_body",
@@ -212,10 +208,59 @@
                     "frame": "player/toboggan/5/body0012",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/body0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/body0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/body0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/body0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/body0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/body0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/body0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/body0020",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "toboggan_crash_penguin",
@@ -292,10 +337,59 @@
                     "frame": "player/toboggan/5/penguin0012",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/penguin0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/penguin0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/penguin0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/penguin0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/penguin0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/penguin0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/penguin0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/toboggan/5/penguin0020",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "toboggan_left_penguin",
@@ -321,7 +415,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "toboggan_left_body",
@@ -347,7 +442,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "toboggan_right_penguin",
@@ -373,7 +469,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "toboggan_right_body",
@@ -399,7 +496,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "tube_crash_penguin",
@@ -473,7 +571,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "tube_crash_body",
@@ -547,7 +646,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "tube_crash_sled",
@@ -621,7 +721,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "green_left_penguin",
@@ -647,7 +748,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "green_left_body",
@@ -673,7 +775,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "green_right_body",
@@ -699,7 +802,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "green_right_penguin",
@@ -725,7 +829,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "green_crash_body",
@@ -808,10 +913,59 @@
                     "frame": "player/green/5/body0013",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/body0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/body0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/body0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/body0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/body0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/body0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/body0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/body0021",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "green_crash_sled",
@@ -894,10 +1048,59 @@
                     "frame": "player/green/5/sled0013",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/sled0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/sled0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/sled0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/sled0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/sled0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/sled0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/sled0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/sled0021",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "green_crash_penguin",
@@ -980,10 +1183,59 @@
                     "frame": "player/green/5/penguin0013",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/penguin0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/penguin0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/penguin0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/penguin0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/penguin0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/penguin0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/penguin0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/green/5/penguin0021",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "pink_left_penguin",
@@ -1009,7 +1261,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "pink_left_body",
@@ -1035,7 +1288,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "pink_right_penguin",
@@ -1061,7 +1315,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "pink_right_body",
@@ -1087,7 +1342,8 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "pink_crash_body",
@@ -1170,10 +1426,59 @@
                     "frame": "player/pink/5/body0013",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/body0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/body0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/body0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/body0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/body0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/body0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/body0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/body0021",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "pink_crash_sled",
@@ -1256,10 +1561,59 @@
                     "frame": "player/pink/5/sled0013",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/sled0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/sled0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/sled0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/sled0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/sled0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/sled0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/sled0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/sled0021",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         },
         {
             "key": "pink_crash_penguin",
@@ -1342,15 +1696,69 @@
                     "frame": "player/pink/5/penguin0013",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/penguin0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/penguin0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/penguin0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/penguin0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/penguin0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/penguin0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/penguin0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sled",
+                    "frame": "player/pink/5/penguin0021",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
         }
     ],
     "globalTimeScale": 1,
     "meta": {
         "app": "Phaser Editor 2D v3",
         "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
     }
 }
