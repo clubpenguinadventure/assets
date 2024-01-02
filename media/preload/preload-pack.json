@@ -20,6 +20,23 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/game/mail/mail.json",
+                "path": "assets/media/interface/game/mail",
+                "key": "mail"
+            },
+            {
+                "url": "assets/media/interface/game/mail/mail-anims.json",
+                "type": "animation",
+                "key": "mail-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/mailbook/mailbook.json",
+                "path": "assets/media/interface/game/mailbook",
+                "key": "mailbook"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/interface/game/main/main.json",
                 "path": "assets/media/interface/game/main/",
                 "key": "main"
