@@ -70,12 +70,14 @@
 
 
     "map": "Map",
+    "adoptcatalog": "Puffle Catalog",
     "clothingcatalog": "Clothing Catalog",
     "furniturecatalog": "Furniture Catalog",
     "igloocatalog": "Igloo Catalog",
     "ninjabelts": "Ninja Belts Legend",
     "ninjainstructions": "Card-Jitsu Instructions",
     "ninjaprogress": "Ninja Progress",
+    "petscatalog": "Puffle Catalog",
 
 
     "sub_prompt": "Would you like to play\nAqua Grabber?",
@@ -121,6 +123,18 @@
     "game_over1": "You have earned 1 coin.\nYou now have %1 coins.",
     "quit_game_prompt": "Are you sure you want to quit this game?",
     "player_quit_prompt": "%1 has quit the game.",
+
+
+    "adopt_pet": "Would you like to adopt this puffle for %1 coins?",
+    "name_pet": "Your puffle needs a name.",
+    "adopt_pet_done": "Your new puffle is now in your igloo. Enjoy!",
+    "buy_pet_food": "Would you like to buy some Pet Food for 10 coins?",
+    "buy_pet_bath": "Would you like to bathe your puffle for 5 coins?",
+    "buy_pet_gum": "Would you like to buy some Gum for 5 coins?",
+    "buy_pet_cookie": "Would you like to buy a Cookie for 5 coins?",
+    "num_coins": "You currently have %1 coins.",
+    "low_coin_warn": "You need more coins.",
+    "max_pets": "Sorry, you may only have a\nmaximum of %1 puffles",
 
 
     "town_find": "is in the Town",
@@ -244,10 +258,10 @@
     "mission11_find": "is on an Adventure",
 
 
-    "play_puffle_hint": "Play with Pet",
-    "feed_puffle_hint": "Feed your Pet",
-    "rest_puffle_hint": "Sleep",
-    "walk_puffle_hint": "Walk your Pet",
+    "play_pet_hint": "Play with Pet",
+    "feed_pet_hint": "Feed your Pet",
+    "rest_pet_hint": "Sleep",
+    "walk_pet_hint": "Walk your Pet",
     "archives_hint": "Old news",
     "sub_hint": "Aqua Grabber",
     "astro_hint": "Astro Barrier",
