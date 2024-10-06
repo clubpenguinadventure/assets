@@ -3,8 +3,8 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/interface/tour/take_tour.json",
-                "path": "assets/media/interface/tour",
+                "url": "assets/media/interface/game/take_tour/take_tour.json",
+                "path": "assets/media/interface/game/take_tour",
                 "key": "take_tour"
             }
         ]
