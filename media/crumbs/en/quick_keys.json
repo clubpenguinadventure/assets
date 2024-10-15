@@ -59,6 +59,9 @@
         "o": {
             "action": "send_safe",
             "value": 22
+        },
+        "j": {
+            "action": "send_joke"
         }
     },
     "emotes": {

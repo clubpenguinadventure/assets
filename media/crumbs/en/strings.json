@@ -1,9 +1,12 @@
 {
     "game": "Club Penguin",
-
-
     "joining": "Joining",
     "loading": "Loading",
+    "days_old": "Your penguin is %1 days old",
+    "ok": "Ok",
+    "done": "Done",
+    "yes": "Yes",
+    "no": "No",
 
 
     "town": "Town",
@@ -67,6 +70,17 @@
     "systemdefend": "System Defender",
     "mancala": "Mancala",
     "four": "Find Four",
+    "mission1": "Mission",
+    "mission2": "Mission",
+    "mission3": "Mission",
+    "mission4": "Mission",
+    "mission5": "Mission",
+    "mission6": "Mission",
+    "mission7": "Mission",
+    "mission8": "Mission",
+    "mission9": "Mission",
+    "mission10": "Mission",
+    "mission11": "Mission",
 
 
     "map": "Map",
@@ -78,6 +92,10 @@
     "ninjainstructions": "Card-Jitsu Instructions",
     "ninjaprogress": "Ninja Progress",
     "petscatalog": "Puffle Catalog",
+    "take_tour": "Take a Tour",
+    "give_tour": "Give a Tour",
+    "agent_quiz": "Agent Form",
+    "missions": "Missions",
 
 
     "sub_prompt": "Would you like to play\nAqua Grabber?",
@@ -475,5 +493,43 @@
 
     "sudden_death": "%1 has no cards to play",
     "widget_wait": "Waiting for more players",
-    "wins": "%1 Wins"
+    "wins": "%1 Wins",
+
+    "tour_start_title": "TOUR GUIDES",
+    "tour_fail_title": "SORRY",
+    "tour_already_title": "PSSST!",
+    "tour_question_title": "TOUR GUIDE QUIZ",
+    "tour_success_title": "CONGRATULATIONS!",
+    "tour_start_text": "Would you like to become a tour guide, showing new visitors to %1 how to get around?\n\nHere's how it works. We'll give you a quiz of eight questions about %1. If you get at least seven questions correct, you'll get to become a tour guide!",
+    "tour_age_text": "To ensure experienced tour guides, your penguin must be more than 45 days old before you can apply to become a tour guide.",
+    "tour_banned_text": "Because there is more than one ban on this account, and this ban happened within the last 30 days, your penguin is not allowed to become a tour guide.",
+    "tour_already_text": "Check your inventory, you already are a Tour Guide. Look for the Tour Guide Hat.",
+    "tour_fail_text": "We're sorry, but you answered too many questions incorrectly.\n\nThank you for your interest in becoming a tour guide! You can retake the test at any time.",
+    "tour_success_text": "You have passed the test! You have proven your knowledge about %1.\n\nClick the button below to receive your free Tour Guide Hat. Then, be sure to read the manual on how to give good tours.",
+    "tour_start_button": "Take the Quiz",
+    "tour_success_button": "Receive the Tour Guide Hat",
+
+    "agent_start_title": "SECRET AGENTS",
+    "agent_fail_title": "SORRY",
+    "agent_already_title": "PSSST!",
+    "agent_mission_title": "YOUR MISSION",
+    "agent_rewards_title": "THE REWARDS",
+    "agent_ready_title": "ARE YOU SURE?",
+    "agent_question_title": "AGENT QUIZ",
+    "agent_done_title": "THANK YOU",
+    "agent_start_text": "We are looking for a few good penguins to\nhelp make %1 the best it can be.\nEven though %1 has live moderators,\nwe need the help of Secret Agent Penguins\nto help be our eyes and ears throughout the\n%1 world.",
+    "agent_age_text": "Your penguin must be more than 30 days old to become a secret agent.",
+    "agent_already_text": "Check your inventory, you already are a Secret Agent",
+    "agent_mission_text": "As a Secret Agent Penguin, your mission is to:",
+    "agent_mission1_text": "Report any players that are using bad language,\nbeing mean, or breaking any of the other rules.",
+    "agent_mission2_text": "Help other penguins so they can have the best\nexperience possible.",
+    "agent_mission3_text": "Keep your identity and the identity of other\nSecret Agent Penguins a secret.",
+    "agent_rewards_text": "If you choose to accept this mission:",
+    "agent_reward1_text": "You will get a spy phone for your penguin.",
+    "agent_reward2_text": "You will get access to the Super Secret Agent\nHeadquarters. This will allow you to hang out\nwith other agents after a long day of keeping\nthe peace.",
+    "agent_ready_text": "Are you ready to take the challenge\nto become a Secret Agent?",
+    "agent_done_text": "Your application has been sent to the\n%1 Team.\n\nWe will check your application and if you are\naccepted a Spy Phone will appear in your\ninventory the next time you log in.\nIf not, please try again later.",
+    "agent_start_button": "Your Mission",
+    "agent_mission_button": "The Rewards",
+    "agent_rewards_button": "Continue"
 }
