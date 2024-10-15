@@ -7,8 +7,6 @@
     "done": "Done",
     "yes": "Yes",
     "no": "No",
-
-
     "town": "Town",
     "coffee": "Coffee Shop",
     "book": "Book Room",
@@ -32,8 +30,6 @@
     "forest": "Forest",
     "cove": "Cove",
     "igloo": "Igloo",
-
-
     "sub": "Aqua Grabber",
     "astro": "Astro Barrier",
     "beans": "Bean Counters",
@@ -81,8 +77,6 @@
     "mission9": "Mission",
     "mission10": "Mission",
     "mission11": "Mission",
-
-
     "map": "Map",
     "adoptcatalog": "Puffle Catalog",
     "clothingcatalog": "Clothing Catalog",
@@ -96,8 +90,6 @@
     "give_tour": "Give a Tour",
     "agent_quiz": "Agent Form",
     "missions": "Missions",
-
-
     "sub_prompt": "Would you like to play\nAqua Grabber?",
     "astro_prompt": "Would you like to play\nAstro Barrier?",
     "beans_prompt": "Would you like to play\nBean Counters?",
@@ -141,8 +133,6 @@
     "game_over1": "You have earned 1 coin.\nYou now have %1 coins.",
     "quit_game_prompt": "Are you sure you want to quit this game?",
     "player_quit_prompt": "%1 has quit the game.",
-
-
     "adopt_pet": "Would you like to adopt this puffle for %1 coins?",
     "name_pet": "Your puffle needs a name.",
     "adopt_pet_done": "Your new puffle is now in your igloo. Enjoy!",
@@ -153,8 +143,6 @@
     "num_coins": "You currently have %1 coins.",
     "low_coin_warn": "You need more coins.",
     "max_pets": "Sorry, you may only have a\nmaximum of %1 puffles",
-
-
     "town_find": "is in the Town",
     "coffee_find": "is in the Coffee Shop",
     "book_find": "is in the Book Room",
@@ -225,8 +213,6 @@
     "igloo_find": "is in an igloo",
     "igloo_theirs_find": "is in their igloo",
     "igloo_yours_find": "is in your igloo",
-
-
     "sub_find": "is playing Aqua Grabber",
     "astro_find": "is playing Astro Barrier",
     "beans_find": "is playing Bean Counters",
@@ -274,8 +260,6 @@
     "mission9_find": "is on an Adventure",
     "mission10_find": "is on an Adventure",
     "mission11_find": "is on an Adventure",
-
-
     "play_pet_hint": "Play with Pet",
     "feed_pet_hint": "Feed your Pet",
     "rest_pet_hint": "Sleep",
@@ -409,8 +393,6 @@
     "buy_items_hint": "Buy Items",
     "upgrade_igloo_hint": "Upgrade Igloo",
     "save_igloo_hint": "Save Igloo",
-
-
     "help_card": "If tied, the highest number wins.",
     "help_firsttime_welcome": "Good day grasshopper,\nAnd welcome to the Dojo.\nTell me what you seek.",
     "help_firsttime_tobegin": "To begin training,\nYou will first require these cards.\nJust like real ninja.",
@@ -446,16 +428,12 @@
     "help_defeat_sensei_kowtows": "Well done, grasshopper.\nYou have faced my skills, and won.\nAnd proven yourself.",
     "help_defeat_sensei_gift": "Now receive the mark\nOf a Card-Jitsu master,\nWith this ninja mask.",
     "help_defeat_sensei_final": "You may now join us,\nIn secret ninja hideout.\nCongratulations!",
-
-
     "menu_title_competition": "Earn your belts",
     "menu_title_sensei": "Challenge Sensei",
     "menu_title_instructions": "Instructions",
     "menu_description_competition": "Do you wish to play\nAnd compete with another\nStudent, grasshopper?",
     "menu_description_sensei": "To become ninja,\nYou must challenge me and win.\nBut bring your black belt.",
     "menu_description_instructions": "Do you wish to hear\nThe instructions of the game\nAgain, grasshopper?",
-
-
     "pow_1": "When this card is played, lower values win ties the next round.",
     "pow_2": "When this is scored, your card get +2 for the next round.",
     "pow_3": "When this is scored, your Opponent's card get -2 for the next round.",
@@ -480,7 +458,6 @@
     "pow_22": "When this is scored, discard all Opponent's Yellow cards.",
     "pow_23": "When this is scored, discard all Opponent's Orange cards.",
     "pow_24": "When this is scored, discard all Opponent's Purple cards.",
-
     "belt_1": "a White Belt",
     "belt_2": "Yellow Belt",
     "belt_3": "Orange Belt",
@@ -490,11 +467,9 @@
     "belt_7": "Purple Belt",
     "belt_8": "a Brown Belt",
     "belt_9": "a Black Belt",
-
     "sudden_death": "%1 has no cards to play",
     "widget_wait": "Waiting for more players",
     "wins": "%1 Wins",
-
     "tour_start_title": "TOUR GUIDES",
     "tour_fail_title": "SORRY",
     "tour_already_title": "PSSST!",
@@ -508,7 +483,6 @@
     "tour_success_text": "You have passed the test! You have proven your knowledge about %1.\n\nClick the button below to receive your free Tour Guide Hat. Then, be sure to read the manual on how to give good tours.",
     "tour_start_button": "Take the Quiz",
     "tour_success_button": "Receive the Tour Guide Hat",
-
     "agent_start_title": "SECRET AGENTS",
     "agent_fail_title": "SORRY",
     "agent_already_title": "PSSST!",
