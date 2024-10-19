@@ -1,33 +1,121 @@
 :root {
-    --bg: #22a4f3;
-    --text: #eceff4;
-    --accent: #88c0d0;
-    --button: #5e81ac;
-    --button-hover: #49688d;
-    --input: #00000055;
-    --input-text: #eceff4;
-    --danger: #bf616a;
+    --bg: #ffffff;
 }
 
 *, ::after, ::before {
     box-sizing: border-box;
 }
 
-body {
+html, body {
+    height: 100%;
     margin: 0;
     padding: 0;
-    background-color: var(--bg);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
 }
 
 a {
     text-decoration: none;
 }
 
+/* Dark Mode */		
+.dark-mode {
+	background-color: #111;
+	color: white;
+}
+
+/* Custom Header Styles */
+.header {
+	width: 100%;
+	height: 35px; /* Header height */
+	background: linear-gradient( to bottom, #005399 0%, #005399 33%, #00549A 34%, #01559B 36%, #02569D 39%, #02589E 42%, #0359A0 45%, #045BA2 48%, #055CA4 51%, #065EA6 54%, #065FA7 57%, #0761A9 60%, #0862AA 63%, #0863AC 66%, #0964AD 69%, #0964AD 71%, #014A86 75%, #014984 78%, #014379 82%, #05122226 83%, #0B000000 94% );
+	display: flex;
+	justify-content: center; /* Center the inner content horizontally */
+	align-items: center; /* Center the inner content vertically */
+	box-sizing: border-box;
+	padding: 0;
+	position: relative;
+	z-index: 10;
+}
+
+.header-content {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 800px; /* Fixed width for the content */
+	height: 100%; /* Ensure it takes full height of header */
+	box-sizing: border-box;
+	padding: 0 10px; /* Add horizontal padding */
+	margin: 0;
+	line-height: 30px; /* Adjust line height to move text up */
+	position: relative;
+	position: relative;
+	top: -3px; /* Adjust this value to move the text up */
+}
+
+.header .links {
+	display: flex;
+	align-items: center;
+}
+
+.header .links a {
+	color: #ffffff; /* White text color */
+	text-decoration: none;
+	font-size: 11px; /* Font size */
+	font-weight: 600; /* Font weight */
+	padding: 0 10px; /* Adjust padding for spacing */
+	position: relative;
+	font-family: Arial, sans-serif; /* Ensure font is Arial */
+}
+
+.header .links a:hover {
+	color: #FFA500;
+}
+
+.header .links a:not(:last-child)::after {
+	content: '';
+	position: absolute;
+	right: 0; /* Move the vertical bar closer to the text */
+	top: 50%;
+	transform: translateY(-50%);
+	width: 1px; /* Width of the vertical bar */
+	height: 15px; /* Height of the vertical bar */
+	background-color: #FFA500; /* Orange vertical bar color */
+	ho
+}
+
+.header .buttons {
+	display: flex;
+	align-items: center;
+	gap: 10px; /* Space between buttons */
+}
+
+.header button {
+	background-color: #0280CD;
+	border: none;
+	color: white;
+	padding: 2px 6px; /* Smaller padding */
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 11px; /* Font size */
+	font-weight: 600; /* Font weight */
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.header button:hover {
+	background-color: #0280CD;
+}
+
 /* Game */
 
 .game {
     width: 100%;
-    height: 100%;
+    height: calc(100vh - 35px); /* Subtracting the height of the header */
     min-width: 500px;
     max-width: 1520px;
     margin: 0 auto;
