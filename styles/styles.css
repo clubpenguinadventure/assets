@@ -27,6 +27,11 @@ a {
 	color: white;
 }
 
+.light-mode {
+	background-color: var(--bg);
+	color: black;
+}
+
 /* Custom Header Styles */
 .header {
 	width: 100%;
