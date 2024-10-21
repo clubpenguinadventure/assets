@@ -1,9 +1,10 @@
-:root {
-    --bg: #ffffff;
-}
-
 *, ::after, ::before {
     box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
 }
 
 html, body {
@@ -28,8 +29,13 @@ a {
 }
 
 .light-mode {
-	background-color: var(--bg);
+	background-color: #fff;
 	color: black;
+}
+
+.blue-mode {
+    background-color: #22A4F3;
+    color: #5b4636;
 }
 
 /* Custom Header Styles */
@@ -120,7 +126,7 @@ a {
 
 .game {
     width: 100%;
-    height: calc(100vh - 35px); /* Subtracting the height of the header */
+    height: calc(100vh - 35px);
     min-width: 500px;
     max-width: 1520px;
     margin: 0 auto;
