@@ -1,0 +1,92 @@
+{
+    "anims": [
+        {
+            "key": "boiler/cab_in",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "boiler",
+                    "frame": "cab0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler",
+                    "frame": "cab0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler",
+                    "frame": "cab0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler",
+                    "frame": "cab0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler",
+                    "frame": "cab0005",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "boiler/cab_out",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "boiler",
+                    "frame": "cab0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler",
+                    "frame": "cab0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler",
+                    "frame": "cab0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler",
+                    "frame": "cab0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler",
+                    "frame": "cab0001",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

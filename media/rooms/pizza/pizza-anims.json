@@ -1,0 +1,383 @@
+{
+    "anims": [
+        {
+            "key": "pizza/cash_in",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0022",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "pizza/cash_out",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/cash0001",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "pizza/book",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "desk/book0016",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

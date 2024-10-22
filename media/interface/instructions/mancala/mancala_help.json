@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "mancala_help-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 512,
+				"h": 376
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "board",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 510,
+						"h": 332
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 510,
+						"h": 332
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 510,
+						"h": 332
+					}
+				},
+				{
+					"filename": "tab",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 335,
+						"w": 32,
+						"h": 40
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:708c96ef8e00e264314488475a21cc10:1c875516511c46c0ac9b218f3cb9da62:2641b86fd67d104c7857b3fb05619374$"
+	}
+}

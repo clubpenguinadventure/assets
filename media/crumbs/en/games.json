@@ -46,6 +46,10 @@
         "music": 111,
         "flash": true
     },
+    "910": {
+        "key": "pizzatron",
+        "flash": true
+    },
     "911": {
         "key": "mission3",
         "path": "quests/q3/quest.swf",
