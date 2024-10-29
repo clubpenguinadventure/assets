@@ -29383,7 +29383,7 @@
             ]
         },
 		{
-            "image": "brah.png",
+            "image": "large-box-worn.png",
             "format": "RGBA8888",
             "size": {
                 "w": 124,
@@ -29418,7 +29418,7 @@
 			]
         },
 		{
-            "image": "brah2.png",
+            "image": "large-box-worn-hover.png",
             "format": "RGBA8888",
             "size": {
                 "w": 124,
