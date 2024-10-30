@@ -38,6 +38,11 @@ a {
     color: #5b4636;
 }
 
+#game canvas {
+	image-rendering: auto !important;
+}
+
+
 /* Custom Header Styles */
 .header {
 	width: 100%;
