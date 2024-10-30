@@ -14,6 +14,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/menus/start/billboards/@2x/friends.json",
+                "path": "assets/media/interface/menus/start/billboards/@2x",
+                "key": "friends"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/interface/game/iglooedit/iglooedit.json",
                 "path": "assets/media/interface/game/iglooedit/",
                 "key": "iglooedit"
@@ -78,8 +84,8 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/interface/menus/start/start.json",
-                "path": "assets/media/interface/menus/start/",
+                "url": "assets/media/interface/menus/start/@2x/start.json",
+                "path": "assets/media/interface/menus/start/@2x",
                 "key": "start"
             }
         ]

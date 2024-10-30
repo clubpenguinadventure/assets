@@ -130,6 +130,165 @@
             "repeat": -1,
             "yoyo": true,
             "randomFrame": false
+        },
+        {
+            "key": "billboard",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "friends",
+                    "frame": "friends0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "friends",
+                    "frame": "friends0025",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "randomFrame": false
         }
     ],
     "globalTimeScale": 1,
