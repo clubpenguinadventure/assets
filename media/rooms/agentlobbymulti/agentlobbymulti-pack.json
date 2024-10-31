@@ -16,6 +16,27 @@
                 "url": "assets/media/rooms/agentlobbymulti/agentlobbymulti-physics.json",
                 "type": "json",
                 "key": "agentlobbymulti-physics"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/camera_deinit.mp3"
+                ],
+                "type": "audio",
+                "key": "camera_deinit"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/camera_found.mp3"
+                ],
+                "type": "audio",
+                "key": "camera_found"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/camera_init.mp3"
+                ],
+                "type": "audio",
+                "key": "camera_init"
             }
         ]
     },
