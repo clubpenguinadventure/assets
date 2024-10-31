@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/agentlobbymulti/@2x/agentlobbymulti.json",
+                "path": "assets/media/rooms/agentlobbymulti/@2x",
+                "key": "agentlobbymulti"
+            },
+            {
+                "url": "assets/media/rooms/agentlobbymulti/agentlobbymulti-anims.json",
+                "type": "animation",
+                "key": "agentlobbymulti-anims"
+            },
+            {
+                "url": "assets/media/rooms/agentlobbymulti/agentlobbymulti-physics.json",
+                "type": "json",
+                "key": "agentlobbymulti-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
