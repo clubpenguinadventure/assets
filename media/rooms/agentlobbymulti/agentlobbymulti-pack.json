@@ -19,6 +19,13 @@
             },
             {
                 "url": [
+                    "assets/media/rooms/agentlobbymulti/camera_capture.mp3"
+                ],
+                "type": "audio",
+                "key": "camera_capture"
+            },
+            {
+                "url": [
                     "assets/media/rooms/agentlobbymulti/camera_deinit.mp3"
                 ],
                 "type": "audio",
@@ -37,6 +44,202 @@
                 ],
                 "type": "audio",
                 "key": "camera_init"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/camera_shut_down.mp3"
+                ],
+                "type": "audio",
+                "key": "camera_shut_down"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/camera_snowballed.mp3"
+                ],
+                "type": "audio",
+                "key": "camera_snowballed"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/camera_start.mp3"
+                ],
+                "type": "audio",
+                "key": "camera_start"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/camera_text_write.mp3"
+                ],
+                "type": "audio",
+                "key": "camera_text_write"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/camera_turn_on.mp3"
+                ],
+                "type": "audio",
+                "key": "camera_turn_on"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/doorbars_fall.mp3"
+                ],
+                "type": "audio",
+                "key": "doorbars_fall"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/doorbars_hitfloor.mp3"
+                ],
+                "type": "audio",
+                "key": "doorbars_hitfloor"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/doorbars_reveal.mp3"
+                ],
+                "type": "audio",
+                "key": "doorbars_reveal"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/fusebox_close.mp3"
+                ],
+                "type": "audio",
+                "key": "fusebox_close"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/fusebox_crackle.mp3"
+                ],
+                "type": "audio",
+                "key": "fusebox_crackle"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/fusebox_hit.mp3"
+                ],
+                "type": "audio",
+                "key": "fusebox_hit"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/fusebox_on.mp3"
+                ],
+                "type": "audio",
+                "key": "fusebox_on"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/fusebox_open.mp3"
+                ],
+                "type": "audio",
+                "key": "fusebox_open"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/fusebox_powerdown.mp3"
+                ],
+                "type": "audio",
+                "key": "fusebox_powerdown"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/fusebox_swing_break.mp3"
+                ],
+                "type": "audio",
+                "key": "fusebox_swing_break"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/laser_on.mp3"
+                ],
+                "type": "audio",
+                "key": "laser_on"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/pillar_lift.mp3"
+                ],
+                "type": "audio",
+                "key": "pillar_lift"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/pillar_wont_lift.mp3"
+                ],
+                "type": "audio",
+                "key": "pillar_wont_lift"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/target_hide.mp3"
+                ],
+                "type": "audio",
+                "key": "target_hide"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/target_hit.mp3"
+                ],
+                "type": "audio",
+                "key": "target_hit"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/target_reveal.mp3"
+                ],
+                "type": "audio",
+                "key": "target_reveal"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/telephone_adjust.mp3"
+                ],
+                "type": "audio",
+                "key": "telephone_adjust"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/telephone_click.mp3"
+                ],
+                "type": "audio",
+                "key": "telephone_click"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/telephone_floorclick.mp3"
+                ],
+                "type": "audio",
+                "key": "telephone_floorclick"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/telephone_floorclose.mp3"
+                ],
+                "type": "audio",
+                "key": "telephone_floorclose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/telephone_lift.mp3"
+                ],
+                "type": "audio",
+                "key": "telephone_lift"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/telephone_ring.mp3"
+                ],
+                "type": "audio",
+                "key": "telephone_ring"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/agentlobbymulti/telephone_turn.mp3"
+                ],
+                "type": "audio",
+                "key": "telephone_turn"
             }
         ]
     },
