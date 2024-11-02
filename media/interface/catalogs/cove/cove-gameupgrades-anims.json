@@ -1,0 +1,324 @@
+{
+    "anims": [
+        {
+            "key": "covegameupgrades-secret-hover",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-gameupgrades",
+                    "frame": "secret-hoveranim0050",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

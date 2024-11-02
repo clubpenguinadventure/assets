@@ -49,8 +49,8 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/interface/game/main/main.json",
-                "path": "assets/media/interface/game/main/",
+                "url": "assets/media/interface/game/main/@2x/main.json",
+                "path": "assets/media/interface/game/main/@2x",
                 "key": "main"
             },
             {
