@@ -1,292 +1,11 @@
 [
   {
-    "name": "Activities",
-    "description": "Doing things in-game",
-    "parent_group_id": 0,
-    "display": "Activities",
-    "group_id": 7,
-    "stamps": [
-      {
-        "stamp_id": 14,
-        "name": "183 days! ",
-        "is_member": 0,
-        "rank": 2,
-        "description": "Log in with a penguin 183 days old or older",
-        "rank_token": "medium"
-      },
-      {
-        "stamp_id": 488,
-        "name": "3 Gems",
-        "is_member": 0,
-        "rank": 4,
-        "description": "Earn the Fire, Water, and Snow Gems",
-        "rank_token": "extreme"
-      },
-      {
-        "stamp_id": 20,
-        "name": "365 days!",
-        "is_member": 0,
-        "rank": 3,
-        "description": "Log in with a penguin 365 days old or older",
-        "rank_token": "hard"
-      },
-      {
-        "stamp_id": 26,
-        "name": "Berg Drill!",
-        "is_member": 0,
-        "rank": 3,
-        "description": "Dance with 30 penguins wearing hard hats at the Berg",
-        "rank_token": "hard"
-      },
-      {
-        "stamp_id": 493,
-        "name": "Big Dig",
-        "is_member": 0,
-        "rank": 3,
-        "description": "Find over 50 coins in a puffle dig",
-        "rank_token": "hard"
-      },
-      {
-        "stamp_id": 13,
-        "name": "Clock Target",
-        "is_member": 0,
-        "rank": 1,
-        "description": "Hit the Clock target 10 times in a row",
-        "rank_token": "easy"
-      },
-      {
-        "stamp_id": 18,
-        "name": "Coffee Server",
-        "is_member": 0,
-        "rank": 2,
-        "description": "Serve 5 coffees, using the apron and emote",
-        "rank_token": "medium"
-      },
-      {
-        "stamp_id": 16,
-        "name": "Dance Party",
-        "is_member": 0,
-        "rank": 2,
-        "description": "Party in the Night Club with 10 penguins",
-        "rank_token": "medium"
-      },
-      {
-        "stamp_id": 492,
-        "name": "Dig All Day",
-        "is_member": 0,
-        "rank": 2,
-        "description": "Find puffle treasure 5 times in a day",
-        "rank_token": "medium"
-      },
-      {
-        "stamp_id": 200,
-        "name": "Elite Protector",
-        "is_member": 0,
-        "rank": 3,
-        "description": "Earn 25 EPF medals",
-        "rank_token": "hard"
-      },
-      {
-        "stamp_id": 491,
-        "name": "Every Color",
-        "is_member": 0,
-        "rank": 2,
-        "description": "Dig up treasure with 11 different color puffles",
-        "rank_token": "medium"
-      },
-      {
-        "stamp_id": 197,
-        "name": "Field Agent",
-        "is_member": 0,
-        "rank": 1,
-        "description": "Earn 1 EPF medal",
-        "rank_token": "easy"
-      },
-      {
-        "stamp_id": 490,
-        "name": "First Dig",
-        "is_member": 0,
-        "rank": 2,
-        "description": "See another player's puffle find their first treasure",
-        "rank_token": "medium"
-      },
-      {
-        "stamp_id": 22,
-        "name": "Floor Filler",
-        "is_member": 0,
-        "rank": 3,
-        "description": "Dance in the Night Club with 25 penguins",
-        "rank_token": "hard"
-      },
-      {
-        "stamp_id": 27,
-        "name": "Fort Battle",
-        "is_member": 0,
-        "rank": 3,
-        "description": "Throw snow at the Forts with 5 penguins of the same color",
-        "rank_token": "hard"
-      },
-      {
-        "stamp_id": 23,
-        "name": "Full House",
-        "is_member": 1,
-        "rank": 3,
-        "description": "Fill your igloo with 99 furniture items",
-        "rank_token": "hard"
-      },
-      {
-        "stamp_id": 12,
-        "name": "Go Swimming",
-        "is_member": 0,
-        "rank": 1,
-        "description": "Swim in water with a rubber duck",
-        "rank_token": "easy"
-      },
-      {
-        "stamp_id": 15,
-        "name": "Going Places",
-        "is_member": 0,
-        "rank": 2,
-        "description": "Waddle around 30 rooms",
-        "rank_token": "medium"
-      },
-      {
-        "stamp_id": 29,
-        "name": "Hockey Team",
-        "is_member": 0,
-        "rank": 3,
-        "description": "Form a team with 5 penguins in the same jersey",
-        "rank_token": "hard"
-      },
-      {
-        "stamp_id": 17,
-        "name": "Igloo Party",
-        "is_member": 0,
-        "rank": 2,
-        "description": "Throw a party for 10 penguins in your igloo.",
-        "rank_token": "medium"
-      },
-      {
-        "stamp_id": 201,
-        "name": "Island Guardian",
-        "is_member": 0,
-        "rank": 4,
-        "description": "Earn 50 EPF medals",
-        "rank_token": "extreme"
-      },
-      {
-        "stamp_id": 30,
-        "name": "Ninja Meeting",
-        "is_member": 0,
-        "rank": 4,
-        "description": "Meet 10 black belts in the Dojo",
-        "rank_token": "extreme"
-      },
-      {
-        "stamp_id": 28,
-        "name": "Party Host ",
-        "is_member": 0,
-        "rank": 4,
-        "description": "Throw a party for 30 penguins in your igloo.",
-        "rank_token": "extreme"
-      },
-      {
-        "stamp_id": 19,
-        "name": "Pizza Waiter",
-        "is_member": 0,
-        "rank": 2,
-        "description": "Serve 5 pizzas, using the apron and emote",
-        "rank_token": "medium"
-      },
-      {
-        "stamp_id": 24,
-        "name": "Play It Loud! ",
-        "is_member": 0,
-        "rank": 3,
-        "description": "Form a full band at the Lighthouse",
-        "rank_token": "hard"
-      },
-      {
-        "stamp_id": 489,
-        "name": "Puffle Dig",
-        "is_member": 0,
-        "rank": 1,
-        "description": "Walk a puffle and find treasure",
-        "rank_token": "easy"
-      },
-      {
-        "stamp_id": 21,
-        "name": "Puffle Owner",
-        "is_member": 0,
-        "rank": 3,
-        "description": "Adopt and care for 16 puffles",
-        "rank_token": "hard"
-      },
-      {
-        "stamp_id": 11,
-        "name": "Snapshot",
-        "is_member": 0,
-        "rank": 1,
-        "description": "Use a camera on top of the Ski Hill",
-        "rank_token": "easy"
-      },
-      {
-        "stamp_id": 25,
-        "name": "Soccer Team ",
-        "is_member": 0,
-        "rank": 4,
-        "description": "Form a team with 5 penguins in the same jersey",
-        "rank_token": "extreme"
-      },
-      {
-        "stamp_id": 198,
-        "name": "Special Agent",
-        "is_member": 0,
-        "rank": 2,
-        "description": "Earn 5 EPF medals",
-        "rank_token": "medium"
-      },
-      {
-        "stamp_id": 199,
-        "name": "Special Forces",
-        "is_member": 0,
-        "rank": 2,
-        "description": "Earn 10 EPF medals",
-        "rank_token": "medium"
-      },
-      {
-        "stamp_id": 9,
-        "name": "Stage Crew",
-        "is_member": 0,
-        "rank": 1,
-        "description": "Operate the Switchbox 3000",
-        "rank_token": "easy"
-      },
-      {
-        "stamp_id": 495,
-        "name": "Tasty Treasure",
-        "is_member": 1,
-        "rank": 1,
-        "description": "Find your puffle's favorite food in a treasure dig",
-        "rank_token": "easy"
-      },
-      {
-        "stamp_id": 494,
-        "name": "Treasure Box",
-        "is_member": 1,
-        "rank": 3,
-        "description": "Find an item in a puffle treasure dig",
-        "rank_token": "hard"
-      },
-      {
-        "stamp_id": 10,
-        "name": "Underground",
-        "is_member": 0,
-        "rank": 1,
-        "description": "Find the secret entrance to the underground",
-        "rank_token": "easy"
-      }
-    ]
+    "name": "Total",
+    "description": "Total Stamps",
+    "parent_group_id": -1,
+    "display": "All Stamps",
+    "group_id": 0,
+    "stamps": []
   },
   {
     "name": "Events",
@@ -598,6 +317,295 @@
         "is_member": 0,
         "rank": 1,
         "description": "Donate to a Coins For Change cause",
+        "rank_token": "easy"
+      }
+    ]
+  },
+  {
+    "name": "Activities",
+    "description": "Doing things in-game",
+    "parent_group_id": 0,
+    "display": "Activities",
+    "group_id": 7,
+    "stamps": [
+      {
+        "stamp_id": 14,
+        "name": "183 days! ",
+        "is_member": 0,
+        "rank": 2,
+        "description": "Log in with a penguin 183 days old or older",
+        "rank_token": "medium"
+      },
+      {
+        "stamp_id": 488,
+        "name": "3 Gems",
+        "is_member": 0,
+        "rank": 4,
+        "description": "Earn the Fire, Water, and Snow Gems",
+        "rank_token": "extreme"
+      },
+      {
+        "stamp_id": 20,
+        "name": "365 days!",
+        "is_member": 0,
+        "rank": 3,
+        "description": "Log in with a penguin 365 days old or older",
+        "rank_token": "hard"
+      },
+      {
+        "stamp_id": 26,
+        "name": "Berg Drill!",
+        "is_member": 0,
+        "rank": 3,
+        "description": "Dance with 30 penguins wearing hard hats at the Berg",
+        "rank_token": "hard"
+      },
+      {
+        "stamp_id": 493,
+        "name": "Big Dig",
+        "is_member": 0,
+        "rank": 3,
+        "description": "Find over 50 coins in a puffle dig",
+        "rank_token": "hard"
+      },
+      {
+        "stamp_id": 13,
+        "name": "Clock Target",
+        "is_member": 0,
+        "rank": 1,
+        "description": "Hit the Clock target 10 times in a row",
+        "rank_token": "easy"
+      },
+      {
+        "stamp_id": 18,
+        "name": "Coffee Server",
+        "is_member": 0,
+        "rank": 2,
+        "description": "Serve 5 coffees, using the apron and emote",
+        "rank_token": "medium"
+      },
+      {
+        "stamp_id": 16,
+        "name": "Dance Party",
+        "is_member": 0,
+        "rank": 2,
+        "description": "Party in the Night Club with 10 penguins",
+        "rank_token": "medium"
+      },
+      {
+        "stamp_id": 492,
+        "name": "Dig All Day",
+        "is_member": 0,
+        "rank": 2,
+        "description": "Find puffle treasure 5 times in a day",
+        "rank_token": "medium"
+      },
+      {
+        "stamp_id": 200,
+        "name": "Elite Protector",
+        "is_member": 0,
+        "rank": 3,
+        "description": "Earn 25 EPF medals",
+        "rank_token": "hard"
+      },
+      {
+        "stamp_id": 491,
+        "name": "Every Color",
+        "is_member": 0,
+        "rank": 2,
+        "description": "Dig up treasure with 11 different color puffles",
+        "rank_token": "medium"
+      },
+      {
+        "stamp_id": 197,
+        "name": "Field Agent",
+        "is_member": 0,
+        "rank": 1,
+        "description": "Earn 1 EPF medal",
+        "rank_token": "easy"
+      },
+      {
+        "stamp_id": 490,
+        "name": "First Dig",
+        "is_member": 0,
+        "rank": 2,
+        "description": "See another player's puffle find their first treasure",
+        "rank_token": "medium"
+      },
+      {
+        "stamp_id": 22,
+        "name": "Floor Filler",
+        "is_member": 0,
+        "rank": 3,
+        "description": "Dance in the Night Club with 25 penguins",
+        "rank_token": "hard"
+      },
+      {
+        "stamp_id": 27,
+        "name": "Fort Battle",
+        "is_member": 0,
+        "rank": 3,
+        "description": "Throw snow at the Forts with 5 penguins of the same color",
+        "rank_token": "hard"
+      },
+      {
+        "stamp_id": 23,
+        "name": "Full House",
+        "is_member": 1,
+        "rank": 3,
+        "description": "Fill your igloo with 99 furniture items",
+        "rank_token": "hard"
+      },
+      {
+        "stamp_id": 12,
+        "name": "Go Swimming",
+        "is_member": 0,
+        "rank": 1,
+        "description": "Swim in water with a rubber duck",
+        "rank_token": "easy"
+      },
+      {
+        "stamp_id": 15,
+        "name": "Going Places",
+        "is_member": 0,
+        "rank": 2,
+        "description": "Waddle around 30 rooms",
+        "rank_token": "medium"
+      },
+      {
+        "stamp_id": 29,
+        "name": "Hockey Team",
+        "is_member": 0,
+        "rank": 3,
+        "description": "Form a team with 5 penguins in the same jersey",
+        "rank_token": "hard"
+      },
+      {
+        "stamp_id": 17,
+        "name": "Igloo Party",
+        "is_member": 0,
+        "rank": 2,
+        "description": "Throw a party for 10 penguins in your igloo.",
+        "rank_token": "medium"
+      },
+      {
+        "stamp_id": 201,
+        "name": "Island Guardian",
+        "is_member": 0,
+        "rank": 4,
+        "description": "Earn 50 EPF medals",
+        "rank_token": "extreme"
+      },
+      {
+        "stamp_id": 30,
+        "name": "Ninja Meeting",
+        "is_member": 0,
+        "rank": 4,
+        "description": "Meet 10 black belts in the Dojo",
+        "rank_token": "extreme"
+      },
+      {
+        "stamp_id": 28,
+        "name": "Party Host ",
+        "is_member": 0,
+        "rank": 4,
+        "description": "Throw a party for 30 penguins in your igloo.",
+        "rank_token": "extreme"
+      },
+      {
+        "stamp_id": 19,
+        "name": "Pizza Waiter",
+        "is_member": 0,
+        "rank": 2,
+        "description": "Serve 5 pizzas, using the apron and emote",
+        "rank_token": "medium"
+      },
+      {
+        "stamp_id": 24,
+        "name": "Play It Loud! ",
+        "is_member": 0,
+        "rank": 3,
+        "description": "Form a full band at the Lighthouse",
+        "rank_token": "hard"
+      },
+      {
+        "stamp_id": 489,
+        "name": "Puffle Dig",
+        "is_member": 0,
+        "rank": 1,
+        "description": "Walk a puffle and find treasure",
+        "rank_token": "easy"
+      },
+      {
+        "stamp_id": 21,
+        "name": "Puffle Owner",
+        "is_member": 0,
+        "rank": 3,
+        "description": "Adopt and care for 16 puffles",
+        "rank_token": "hard"
+      },
+      {
+        "stamp_id": 11,
+        "name": "Snapshot",
+        "is_member": 0,
+        "rank": 1,
+        "description": "Use a camera on top of the Ski Hill",
+        "rank_token": "easy"
+      },
+      {
+        "stamp_id": 25,
+        "name": "Soccer Team ",
+        "is_member": 0,
+        "rank": 4,
+        "description": "Form a team with 5 penguins in the same jersey",
+        "rank_token": "extreme"
+      },
+      {
+        "stamp_id": 198,
+        "name": "Special Agent",
+        "is_member": 0,
+        "rank": 2,
+        "description": "Earn 5 EPF medals",
+        "rank_token": "medium"
+      },
+      {
+        "stamp_id": 199,
+        "name": "Special Forces",
+        "is_member": 0,
+        "rank": 2,
+        "description": "Earn 10 EPF medals",
+        "rank_token": "medium"
+      },
+      {
+        "stamp_id": 9,
+        "name": "Stage Crew",
+        "is_member": 0,
+        "rank": 1,
+        "description": "Operate the Switchbox 3000",
+        "rank_token": "easy"
+      },
+      {
+        "stamp_id": 495,
+        "name": "Tasty Treasure",
+        "is_member": 1,
+        "rank": 1,
+        "description": "Find your puffle's favorite food in a treasure dig",
+        "rank_token": "easy"
+      },
+      {
+        "stamp_id": 494,
+        "name": "Treasure Box",
+        "is_member": 1,
+        "rank": 3,
+        "description": "Find an item in a puffle treasure dig",
+        "rank_token": "hard"
+      },
+      {
+        "stamp_id": 10,
+        "name": "Underground",
+        "is_member": 0,
+        "rank": 1,
+        "description": "Find the secret entrance to the underground",
         "rank_token": "easy"
       }
     ]
@@ -3045,5 +3053,12 @@
         "rank_token": "easy"
       }
     ]
+  },
+  {
+    "name": "Pins",
+    "parent_group_id": 0,
+    "display": "Pins",
+    "group_id": 9001,
+    "stamps":[]
   }
 ]

@@ -6,12 +6,6 @@
                 "url": "assets/media/interface/game/stampbook/@2x/stampbook.json",
                 "path": "assets/media/interface/game/stampbook/@2x",
                 "key": "stampbook"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/interface/game/stampbook/@2x/stampbook-assets.json",
-                "path": "assets/media/interface/game/stampbook/@2x",
-                "key": "stampbook-assets"
             }
         ]
     },
