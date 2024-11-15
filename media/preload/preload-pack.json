@@ -8,11 +8,6 @@
                 "key": "arrow"
             },
             {
-                "url": "assets/media/crumbs/en/crumbs.json",
-                "type": "json",
-                "key": "crumbs"
-            },
-            {
                 "type": "multiatlas",
                 "url": "assets/media/interface/menus/start/billboards/@2x/friends.json",
                 "path": "assets/media/interface/menus/start/billboards/@2x",
