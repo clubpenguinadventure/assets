@@ -1,0 +1,612 @@
+{
+    "anims": [
+        {
+            "key": "mine-puffle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "mine",
+                    "frame": "puffle0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "puffle0060",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "mine-telephone",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "mine",
+                    "frame": "telephone0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "telephone0028",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "mine-cartback",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "mine",
+                    "frame": "cartback0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "cartback0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "cartback0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "cartback0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "cartback0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "cartback0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "cartback0007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showOnStart": true,
+            "randomFrame": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}
