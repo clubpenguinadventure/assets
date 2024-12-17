@@ -11,6 +11,11 @@
                 "url": "assets/media/rooms/mine/mine-anims.json",
                 "type": "animation",
                 "key": "mine-anims"
+            },
+            {
+                "url": "assets/media/rooms/mine/mine-physics.json",
+                "type": "json",
+                "key": "mine-physics"
             }
         ]
     },
