@@ -6,12 +6,6 @@
                 "url": "assets/media/interface/catalogs/clothing/@4x/clothingcatalog.json",
                 "path": "assets/media/interface/catalogs/clothing/@4x",
                 "key": "clothingcatalog"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/interface/catalogs/clothing/@4x/jan25.json",
-                "path": "assets/media/interface/catalogs/clothing/@4x",
-                "key": "jan25"
             }
         ]
     },
