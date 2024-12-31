@@ -6,6 +6,11 @@
                 "url": "assets/media/interface/catalogs/clothing/@2x/clothingcatalog.json",
                 "path": "assets/media/interface/catalogs/clothing/@2x",
                 "key": "clothingcatalog"
+            },
+            {
+                "url": "assets/media/interface/catalogs/clothing/@2x/clothingcatalog-anims.json",
+                "type": "animation",
+                "key": "clothingcatalog-anims"
             }
         ]
     },
